@@ -14,5 +14,6 @@ Aqui se realizan practicas en Django que es un FrameWork Marco de trabajo UII
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
 - 14 Vuelve a ejecutar servidor
+- 
 
 - ![image](https://github.com/user-attachments/assets/d6823d9e-6f1d-45e1-8717-45c2a3502107)
